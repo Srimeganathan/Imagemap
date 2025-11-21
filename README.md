@@ -120,6 +120,7 @@ S.html
 </html>
 
 ```
+## OUTPUT
 <img width="1883" height="1199" alt="Screenshot 2025-11-21 201102" src="https://github.com/user-attachments/assets/8adb8c91-7598-4b7b-a62e-ee1baa660300" />
 <img width="1885" height="1191" alt="Screenshot 2025-11-21 201128" src="https://github.com/user-attachments/assets/1f88ed38-d6c9-488d-a6ab-00a8fe7a982e" />
 <img width="1887" height="1199" alt="Screenshot 2025-11-21 201205" src="https://github.com/user-attachments/assets/a282f811-1161-455b-b717-b7b8f980456a" />
@@ -127,7 +128,7 @@ S.html
 
 
 
-## OUTPUT
+
 
 
 
