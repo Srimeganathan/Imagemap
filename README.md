@@ -1,4 +1,4 @@
-# Ex04 Places Around Me
+# Ex04 Imagemap
 ## Date: 21/11/2025
 
 ## AIM
